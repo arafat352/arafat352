@@ -12,7 +12,7 @@
 
 
 
- 🌱 I’m currently learning **Wix and webflow**
+ 🌱 I’m currently learning **Flutter and Dart**
 
  💬 Ask me about **CSE Student**) 
 
